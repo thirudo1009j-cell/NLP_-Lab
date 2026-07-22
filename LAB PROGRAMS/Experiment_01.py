@@ -10,6 +10,6 @@ if phone:
 
 
 Output :
-Enter the text : My email is siddarthagalla@gmail.com and my phone number is 8555066377
-Email Found :  siddarthagalla@gmail.com
+Enter the text : My email is thiru782@gmail.com and my phone number is 8555066377
+Email Found :  thiru782@gmail.com
 Phone number Found : 8555066377
